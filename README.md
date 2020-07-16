@@ -33,4 +33,4 @@ To compute dimensions of theta matrix we use:
 
 For this excercise we are going to use a training set, which has 20x20-pixels images of handwritten numbers, represented as vectors of 400 positions. Using our neural network and oneVsAll algorithm we can train and then predict given a new example which number is it.
 
-![oneVsAll](https://github.com/JhonSanz/oneVsAll/blob/master/number_2.png?raw=true)
+![oneVsAll](https://github.com/JhonSanz/oneVsAll/blob/master/number_2.png?raw=true) It looks like number: 2
